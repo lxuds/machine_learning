@@ -1,5 +1,5 @@
 # machinelearning
-Machine learning project code.
+Machine learning class project code.
 
 - `recommender`
 Movie recommender system using collaborative filtering algorithm. (Matlab implemented)
